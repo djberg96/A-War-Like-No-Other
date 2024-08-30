@@ -1,6 +1,7 @@
 <svg width="3.5in" height="2.5in" xmlns="http://www.w3.org/2000/svg">
   <rect id="card_background" width="100%" height="100%" fill="white" stroke="black" stroke-width="15"/>
   <g id="card_name" text-anchor="middle" dominant-baseline="central">
+    <rect x="65%" y="8%" width="15" height="15" fill="green" stroke-width="0.5" stroke="black"/>
     <text font-family="Papyrus" font-size="32">
       <tspan x="50%" y="10%">Epirus</tspan>
     </text>
