@@ -1,0 +1,49 @@
+<svg width="3.5in" height="2.5in" xmlns="http://www.w3.org/2000/svg">
+  <rect id="card_background" width="100%" height="100%" fill="white" stroke="black" stroke-width="15"/>
+  <g id="card_name" text-anchor="middle" dominant-baseline="central">
+    <text font-family="Papyrus" font-size="32">
+      <tspan x="50%" y="10%">Epirus</tspan>
+    </text>
+  </g>
+  
+  <g id="ops">
+    <rect x="4%" y="5%" width="12%" height="12%" fill="red" stroke="black" stroke-width="3"/>
+    <text>
+      <tspan x="8%" y="14%" font-family="Papyrus" font-size="24" fill="white">2</tspan>
+    </text>
+  </g>
+
+  <g id="major_powers">
+    <text>
+      <tspan x="14%" y="33%" font-family="Papyrus" font-size="24">Athens</tspan>
+      <tspan x="65%" y="33%" font-family="Papyrus" font-size="24">Sparta</tspan>
+    </text>
+  </g>
+
+  <g id="athens_target_list">
+    <circle cx="8%" cy="55%" r="3"></circle>
+    <circle cx="8%" cy="70%" r="3"></circle>
+    <circle cx="8%" cy="85%" r="3"></circle>
+    <text font-family="Papyrus" font-size="18" dominant-baseline="central">
+      <tspan x="12%" y="55%">Leucas (1C)</tspan>
+      <tspan x="12%" y="70%">Ambracia (2B)</tspan>
+      <tspan x="12%" y="85%">Epirus (2C)</tspan>
+    </text>
+  </g>
+
+  <g id="sparta_target_list">
+    <circle cx="56%" cy="55%" r="3"></circle>
+    <circle cx="56%" cy="70%" r="3"></circle>
+    <circle cx="56%" cy="85%" r="3"></circle>
+    <text font-family="Papyrus" font-size="18" dominant-baseline="central">
+      <tspan x="60%" y="55%">Epidamnos (1A)</tspan>
+      <tspan x="60%" y="70%">Corcyra (1B)</tspan>
+      <tspan x="60%" y="85%">Sybota (1B)</tspan>
+    </text>
+  </g>
+
+  <line stroke-width="5" x1="0" y1="20%" x2="100%" y2="20%" stroke="black"/>
+  <line stroke-width="5" x1="0" y1="40%" x2="100%" y2="40%" stroke="black"/>
+  <line stroke-width="5" x1="50%" y1="20%" x2="50%" y2="100%" stroke="black"/>
+
+</svg>
