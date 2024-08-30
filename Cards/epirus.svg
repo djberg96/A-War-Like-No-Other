@@ -24,7 +24,7 @@
     <circle cx="6%" cy="55%" r="3"></circle>
     <circle cx="6%" cy="70%" r="3"></circle>
     <circle cx="6%" cy="85%" r="3"></circle>
-    <text font-family="Papyrus" font-size="18" dominant-baseline="central">
+    <text font-family="Papyrus" font-size="16" dominant-baseline="central">
       <tspan x="10%" y="55%">Leucas (1C)</tspan>
       <tspan x="10%" y="70%">Ambracia (2B)</tspan>
       <tspan x="10%" y="85%">Epirus (2C)</tspan>
@@ -35,7 +35,7 @@
     <circle cx="54%" cy="55%" r="3"></circle>
     <circle cx="54%" cy="70%" r="3"></circle>
     <circle cx="54%" cy="85%" r="3"></circle>
-    <text font-family="Papyrus" font-size="18" dominant-baseline="central">
+    <text font-family="Papyrus" font-size="16" dominant-baseline="central">
       <tspan x="58%" y="55%">Epidamnos (1A)</tspan>
       <tspan x="58%" y="70%">Corcyra (1B)</tspan>
       <tspan x="58%" y="85%">Sybota (1B)</tspan>
