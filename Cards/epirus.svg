@@ -21,24 +21,24 @@
   </g>
 
   <g id="athens_target_list">
-    <circle cx="8%" cy="55%" r="3"></circle>
-    <circle cx="8%" cy="70%" r="3"></circle>
-    <circle cx="8%" cy="85%" r="3"></circle>
+    <circle cx="6%" cy="55%" r="3"></circle>
+    <circle cx="6%" cy="70%" r="3"></circle>
+    <circle cx="6%" cy="85%" r="3"></circle>
     <text font-family="Papyrus" font-size="18" dominant-baseline="central">
-      <tspan x="12%" y="55%">Leucas (1C)</tspan>
-      <tspan x="12%" y="70%">Ambracia (2B)</tspan>
-      <tspan x="12%" y="85%">Epirus (2C)</tspan>
+      <tspan x="10%" y="55%">Leucas (1C)</tspan>
+      <tspan x="10%" y="70%">Ambracia (2B)</tspan>
+      <tspan x="10%" y="85%">Epirus (2C)</tspan>
     </text>
   </g>
 
   <g id="sparta_target_list">
-    <circle cx="56%" cy="55%" r="3"></circle>
-    <circle cx="56%" cy="70%" r="3"></circle>
-    <circle cx="56%" cy="85%" r="3"></circle>
+    <circle cx="54%" cy="55%" r="3"></circle>
+    <circle cx="54%" cy="70%" r="3"></circle>
+    <circle cx="54%" cy="85%" r="3"></circle>
     <text font-family="Papyrus" font-size="18" dominant-baseline="central">
-      <tspan x="60%" y="55%">Epidamnos (1A)</tspan>
-      <tspan x="60%" y="70%">Corcyra (1B)</tspan>
-      <tspan x="60%" y="85%">Sybota (1B)</tspan>
+      <tspan x="58%" y="55%">Epidamnos (1A)</tspan>
+      <tspan x="58%" y="70%">Corcyra (1B)</tspan>
+      <tspan x="58%" y="85%">Sybota (1B)</tspan>
     </text>
   </g>
 
