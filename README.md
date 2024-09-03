@@ -1,2 +1,4 @@
 # A-War-Like-No-Other
-A game on the Peloponnesian War
+In theory, this will be a completely new game on the Peloponnesian War.
+
+However, this repo will also contain variants for GMT's game on the Peloponnesian War.
