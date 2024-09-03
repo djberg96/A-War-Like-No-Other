@@ -1,0 +1,26 @@
+<svg width="3.5in" height="2.5in" xmlns="http://www.w3.org/2000/svg">
+  <rect id="card_background" width="100%" height="100%" fill="white" stroke="black" stroke-width="15"/>
+  <g id="card_name" text-anchor="middle" dominant-baseline="central">
+    <text font-family="Papyrus" font-size="24">
+      <tspan x="50%" y="10%">Persian Influence</tspan>
+    </text>
+  </g>
+  
+  <g id="ops">
+    <rect x="4%" y="5%" width="12%" height="12%" fill="red" stroke="black" stroke-width="3"/>
+    <text>
+      <tspan x="8%" y="14%" font-family="Papyrus" font-size="24" fill="white">2</tspan>
+    </text>
+  </g>
+
+  <line stroke-width="5" x1="0" y1="20%" x2="100%" y2="20%" stroke="black"/>
+
+  <g id="event_text">
+    <text font-family="Papyrus" font-size="18" text-anchor="middle">
+      <tspan x="50%" y="40%">Add 500 talents to your treasury</tspan>
+      <tspan x="50%" dy="40">OR</tspan>
+      <tspan x="50%" dy="40">Add 1 naval SP to any one allied</tspan>
+      <tspan x="50%" dy="20">fortress space free of enemy units</tspan>
+    </text>
+  </g>
+</svg>
